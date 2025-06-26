@@ -1,0 +1,1 @@
+// React component for farm tiles
